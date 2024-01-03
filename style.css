@@ -76,6 +76,9 @@ button{
 
 label:not(#field){
     display: block;
+input{
+    border-bottom: 3px;
+}
 }
 label{
     margin-bottom: 25px;
